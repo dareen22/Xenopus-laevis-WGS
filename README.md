@@ -6,7 +6,7 @@ This repository contains two custom scripts used for analyzing genetic diversity
 
 ### 1. `Alleles.py` script:
 
-This script calculates allele frequency across different populations. Specifically, for each population, it computes the percentage of:
+This script calculates fixed and private allele frequency across different populations:
 
 * Fixed alleles – alleles that are homozygous across all individuals in the population.
 * Private alleles – alleles that are unique to a specific population.
