@@ -4,7 +4,7 @@ This repository contains two custom scripts used for analyzing genetic diversity
 
 ## Repository Contents
 
-### 1. `Alleles_count.py` script:
+### 1. `Alleles.py` script:
 
 This script calculates allele frequency across different populations. Specifically, for each population, it computes the percentage of:
 
