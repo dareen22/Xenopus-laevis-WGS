@@ -1,4 +1,6 @@
-# Xenopus laevis Population Genomics Scripts for "The allopolyploid genome of Xenopus laevis behaves like a functional diploid in extant populations" paper:
+# Xenopus laevis Population Genomics Scripts 
+
+Paper:  "The allopolyploid genome of Xenopus laevis behaves like a functional diploid in extant populations"
 
 This repository contains two custom scripts used for analyzing genetic diversity and allele distribution in natural populations of Xenopus laevis. 
 
